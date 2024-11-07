@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS-Algorithms", "DS-Algorithms\DS-Algorithms.csproj", "{17871D7E-4745-4F1B-891D-7B9A40BF4F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{763FEE16-C4BF-4790-8681-AD1859B837A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17871D7E-4745-4F1B-891D-7B9A40BF4F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17871D7E-4745-4F1B-891D-7B9A40BF4F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17871D7E-4745-4F1B-891D-7B9A40BF4F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17871D7E-4745-4F1B-891D-7B9A40BF4F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763FEE16-C4BF-4790-8681-AD1859B837A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763FEE16-C4BF-4790-8681-AD1859B837A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763FEE16-C4BF-4790-8681-AD1859B837A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763FEE16-C4BF-4790-8681-AD1859B837A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80782B5A-49E2-43BE-9FCB-6C4EACAF2B9C}
+	EndGlobalSection
+EndGlobal
