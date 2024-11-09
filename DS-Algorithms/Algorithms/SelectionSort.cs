@@ -16,9 +16,7 @@
                 {
                     if (arr[i] > arr[j])
                     {
-                        int position = arr[i];
-                        arr[i]= arr[j];
-                        arr[j]= position;
+                        (arr[j], arr[i]) = (arr[i], arr[j]);
                     }
                 }
             }
